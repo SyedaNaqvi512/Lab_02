@@ -2,3 +2,12 @@
 Console.WriteLine("Name: Syeda Malaika Fatima");
 Console.WriteLine("Roll Number: 34-ST-063");
 Console.WriteLine("FSc Subjects: Math, Physics, Chemistry, English, Urdu, Islamiyat, Pak Studies, THQ");
+Console.WriteLine("1st Semester Subjects: Computer Programming, ITS, Calculus, Applied Physics, Islamiyat, EHS");
+Console.WriteLine("\n2nd Semester Subjects: ");
+Console.WriteLine("1 Object Oriented Language");
+Console.WriteLine("2. Software Configuration Management");
+Console.WriteLine("3. Discrete Structures");
+Console.WriteLine("4. Software Development Life Cycle");
+Console.WriteLine("5. Probability & Statistics");
+Console.WriteLine("6. Functional English");
+Console.WriteLine("7. THQ-I");
