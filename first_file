@@ -2,3 +2,4 @@
 Console.WriteLine("Name: Syeda Malaika Fatima");
 Console.WriteLine("Roll Number: 34-ST-063");
 Console.WriteLine("FSc Subjects: Math, Physics, Chemistry, English, Urdu, Islamiyat, Pak Studies, THQ");
+Console.WriteLine("1st Semester Subjects: Computer Programming, ITS, Calculus, Applied Physics, Islamiyat, EHS");
